@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/shop-items-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"ShopItems.tres","Cards Count":8,"Chance for Another Card":1,"Possible Base Cards":"None","Possible Modifiers":"Dull, Sharp, Smoldering, Heavy, Light, Defensive, Rummaging","Money":"10-25","Mod Count":"0-3","Rewards All Listed Cards":false,"Links":"[[5th Cataclysm/Card Mods List/Dull\|Dull]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]]","tags":"Reward"}}
+---
+
+
+[[5th Cataclysm/Card Mods List/Dull\|Dull]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]]

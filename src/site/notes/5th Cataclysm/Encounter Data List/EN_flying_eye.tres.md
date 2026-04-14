@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/5th-cataclysm/encounter-data-list/en-flying-eye-tres/","tags":["EncounterData"],"dg-note-properties":{"Filename":"EN_flying_eye.tres","Enemies":"Floating Eye","Possible Enemy Modifiers":"Slimy, Fiery, Armed, Weak, Sturdy","Environment":"ENVIRONMENT_Battle1.tres","Wander Range":160,"Stay on Map":false,"tags":"EncounterData","Links":"Enemies: [[5th Cataclysm/Enemies List/Floating Eye\|Floating Eye]] [[5th Cataclysm/Enemy Mods List/CM_Slimy\|CM_Slimy]] [[5th Cataclysm/Enemy Mods List/CM_Fiery\|CM_Fiery]] [[5th Cataclysm/Enemy Mods List/CM_Armed\|CM_Armed]] [[5th Cataclysm/Enemy Mods List/CM_Weak\|CM_Weak]] [[5th Cataclysm/Enemy Mods List/CM_Sturdy\|CM_Sturdy]]"}}
+---
+
+
+Enemies: [[5th Cataclysm/Enemies List/Floating Eye\|Floating Eye]] [[5th Cataclysm/Enemy Mods List/CM_Slimy\|CM_Slimy]] [[5th Cataclysm/Enemy Mods List/CM_Fiery\|CM_Fiery]] [[5th Cataclysm/Enemy Mods List/CM_Armed\|CM_Armed]] [[5th Cataclysm/Enemy Mods List/CM_Weak\|CM_Weak]] [[5th Cataclysm/Enemy Mods List/CM_Sturdy\|CM_Sturdy]]

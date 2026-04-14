@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/5th-cataclysm/encounter-data-list/en-cave-snail-tres/","tags":["EncounterData"],"dg-note-properties":{"Filename":"EN_cave-snail.tres","Enemies":"Cave Snail","Possible Enemy Modifiers":"Armed, Weak, Sturdy, Fiery, Slimy","Environment":"ENVIRONMENT_Battle1.tres","Wander Range":160,"Stay on Map":false,"tags":"EncounterData","Links":"Enemies: [[5th Cataclysm/Enemies List/Cave Snail\|Cave Snail]] [[5th Cataclysm/Enemy Mods List/CM_Armed\|CM_Armed]] [[5th Cataclysm/Enemy Mods List/CM_Weak\|CM_Weak]] [[5th Cataclysm/Enemy Mods List/CM_Sturdy\|CM_Sturdy]] [[5th Cataclysm/Enemy Mods List/CM_Fiery\|CM_Fiery]] [[5th Cataclysm/Enemy Mods List/CM_Slimy\|CM_Slimy]]"}}
+---
+
+
+Enemies: [[5th Cataclysm/Enemies List/Cave Snail\|Cave Snail]] [[5th Cataclysm/Enemy Mods List/CM_Armed\|CM_Armed]] [[5th Cataclysm/Enemy Mods List/CM_Weak\|CM_Weak]] [[5th Cataclysm/Enemy Mods List/CM_Sturdy\|CM_Sturdy]] [[5th Cataclysm/Enemy Mods List/CM_Fiery\|CM_Fiery]] [[5th Cataclysm/Enemy Mods List/CM_Slimy\|CM_Slimy]]

@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/bt-1-32-cdr-1-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"BT_1-32_CDR1.tres","Cards Count":1,"Chance for Another Card":0.5,"Possible Base Cards":"Stimulant, Bandages, Acid Vial, Water Effigy","Possible Modifiers":"Defensive, Beautiful","Money":"1-3","Mod Count":"0-3","Rewards All Listed Cards":false,"Links":"Cards: [[5th Cataclysm/Cards List CSV/Stimulant\|Stimulant]] [[5th Cataclysm/Cards List CSV/Bandages\|Bandages]] [[5th Cataclysm/Cards List CSV/Acid Vial\|Acid Vial]] [[5th Cataclysm/Cards List CSV/Water Effigy\|Water Effigy]]  Mods: [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Beautiful\|Beautiful]]","tags":"Reward"}}
+---
+
+
+Cards: [[5th Cataclysm/Cards List CSV/Stimulant\|Stimulant]] [[5th Cataclysm/Cards List CSV/Bandages\|Bandages]] [[5th Cataclysm/Cards List CSV/Acid Vial\|Acid Vial]] [[5th Cataclysm/Cards List CSV/Water Effigy\|Water Effigy]]  Mods: [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Beautiful\|Beautiful]]

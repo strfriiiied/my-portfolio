@@ -5,10 +5,10 @@
 # Ryan Woods | Developer and Designer
 
 ![me_image.jpg\|800](/img/user/Images/me_image.jpg)
-Welcome to my portfolio! I am a game designer with 5 years of professional experience developing games for various studios on a wide variety of projects with [House of How](https://houseofhow.com).
+
+Welcome to my portfolio! I am a game designer with 5 years of professional experience developing games for various studios on a wide variety of projects with [[Portfolio/House of How\|House of How]].
 
 ## Projects
-
 10/2023 - PRESENT
 - [5th Cataclysm](https://5thcataclysm.com)
 02/2022-09/2023

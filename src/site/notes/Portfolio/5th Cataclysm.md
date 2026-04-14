@@ -11,26 +11,25 @@
 ## Cards List
 
 ```base
-filters: file.folder == "5th Cataclysm/Cards List CSV"
+filters: file.folder == "5th Cataclysm/Cards List"
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - Description
       - AP
       - Uses
+      - Description
       - Is Temp
       - Is Repairable
       - Price
       - Stocked by Moonman
       - Stocked by Starman
     columnSize:
-      note.Description: 494
-      note.AP: 54
-      note.Uses: 68
-      note.Price: 73
-      note.Stocked by Moonman: 178
+      note.AP: 74
+      note.Uses: 81
+      note.Description: 562
+      note.Price: 72
 
 ```
 

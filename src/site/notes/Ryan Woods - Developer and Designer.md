@@ -12,3 +12,6 @@ Welcome to my portfolio! I am a game designer with 5 years of professional exper
 - <font color=grey>02/2022-09/2023</font> [DCDB (Dungeon Crawler Deckbuilder)](https://strfried.itch.io/dcdb)
 - <font color=grey>01/2021 - 04/2021</font> [[Portfolio/Backwav\|Backwav]]
 - <font color=grey>08/2020 - 12/2020</font> [[Portfolio/Binary Dreams\|Binary Dreams]]
+
+## Resume
+<iframe src="/img/user/Ryan_Woods_Resume_04_26.pdf" width="100%" height="900px" title="Ryan_Woods_Resume_04_26.pdf" style="border:1px solid #ccc;"></iframe>

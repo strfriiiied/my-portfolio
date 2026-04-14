@@ -17,7 +17,7 @@ views:
     name: Table
     order:
       - file.name
-      - Name
+      - Description
       - AP
       - Uses
       - Is Temp
@@ -25,8 +25,12 @@ views:
       - Price
       - Stocked by Moonman
       - Stocked by Starman
-      - Description
-      - tags
+    columnSize:
+      note.Description: 494
+      note.AP: 54
+      note.Uses: 68
+      note.Price: 73
+      note.Stocked by Moonman: 178
 
 ```
 

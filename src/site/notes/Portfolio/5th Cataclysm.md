@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/portfolio/5th-cataclysm/","tags":["portfolio"],"dg-note-properties":{"tags":["portfolio"]}}
 ---
 
+5th Catacylsm is a JRPG-style Deckbuilder hybrid featuring randomly generated loot, enemies, and a dungeon to explore.
 # Links
 - [Landing Page](https://5thcataclysm.com/)
 - [Itch Link](https://strfried.itch.io/5th-cataclysm)

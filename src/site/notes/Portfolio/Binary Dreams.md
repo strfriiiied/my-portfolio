@@ -25,4 +25,9 @@ It’s taken this long, but I have seen the value of documenting early, even in 
 
 I got so focused on implementing things, that I struggled to really integrate them into the overall game loop. I think that if I had just spent a few hours diagramming my cosmetic system and the unlocks upfront, I would have saved a ton of time and made a more enjoyable experience.
 
-![[NarrativeDocExample.png#left|I made a spreadsheet to map out all dialogue in the game, including things like what triggers it, player text options in response, and what those options will trigger.]]
+![NarrativeDocExample.png\|600](/img/user/Images/NarrativeDocExample.png)
+
+I made a spreadsheet to map out all dialogue in the game, including things like what triggers it, player text options in response, and what those options will trigger.
+
+## Technical Design Mind Map
+![techdesignminpmap.png](/img/user/Images/techdesignminpmap.png)

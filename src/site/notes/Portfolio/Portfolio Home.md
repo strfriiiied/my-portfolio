@@ -9,5 +9,11 @@ Welcome to my portfolio! I am a game designer with 5 years of professional exper
 
 ## Projects
 
-[[https://5thCataclysm.com\|5th Cataclysm]]
-[[Portfolio/Backwav\|Backwav]]
+10/2023 - PRESENT
+- [5th Cataclysm](https://5thcataclysm.com)
+02/2022-09/2023
+- [DCDB (Dungeon Crawler Deckbuilder)](https://strfried.itch.io/dcdb)
+01/2021 - 04/2021
+- [[Portfolio/Backwav\|Backwav]]
+08/2020 - 12/2020
+- [[Portfolio/Binary Dreams\|Binary Dreams]]

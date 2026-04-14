@@ -18,7 +18,7 @@ Welcome to my portfolio! I am a game designer with 5 years of professional exper
 ## Student Projects
 - <font color=grey>01/2021 - 04/2021</font> [[Portfolio/Backwav\|Backwav]]
 - <font color=grey>09/2020 - 12/2020</font> [[Portfolio/Binary Dreams\|Binary Dreams]]
-- <font color=grey>09/2019 - 12/2020</font> Until You Wake
+- <font color=grey>09/2019 - 12/2020</font> [[Portfolio/Until You Wake\|Until You Wake]]
 
 ## Resume
 <iframe src="/img/user/Ryan_Woods_Resume_04_26.pdf" width="100%" height="900px" title="Ryan_Woods_Resume_04_26.pdf" style="border:1px solid #ccc;"></iframe>

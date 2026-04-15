@@ -69,4 +69,4 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from **0
 - <span style="color: grey">09/2019 - 10/2019</span> [[Portfolio/Sand\|Sand]]
 
 ## Resume
-[Download Resume (PDF)](Ryan_Woods_Resume_04_26.pdf)
+<iframe src="/img/user/Ryan_Woods_Resume_04_26.pdf" width="100%" height="900px" title="Ryan_Woods_Resume_04_26.pdf" style="border:1px solid #ccc;"></iframe>

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/portfolio/sand/","tags":["portfolio"],"dg-note-properties":{"tags":["portfolio"]}}
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Lx6Eczt6fUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![canyon.png\|600](/img/user/Images/canyon.png)
 

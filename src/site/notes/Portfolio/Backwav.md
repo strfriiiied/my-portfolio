@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio/backwav/","tags":["portfolio","StudentProject"],"dg-note-properties":{"tags":["portfolio","StudentProject"]}}
+{"dg-publish":true,"permalink":"/portfolio/backwav/","tags":["portfolio","StudentProject"],"dg-note-properties":{"tags":["portfolio","StudentProject"],"dg":null}}
 ---
 
 ![Snapshot_38.jpg](/img/user/Images/Snapshot_38.jpg)

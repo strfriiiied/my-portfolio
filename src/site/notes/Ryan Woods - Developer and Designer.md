@@ -28,7 +28,6 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from **0
 - Sat in as the representative for House of How during playtest sessions of Portal experiences with Ripple Effect Games.
 
 
-
 <font color=grey>09/2022-12/2022</font>: **Minecraft Legends**
 - Experimented with making an Musou-inspired action combat system with the UGC tools for the Ichorous Grove DLC experience.
 - Designed player and enemy move sets within the constraints of the scripting layer provided and no UI modification tools.

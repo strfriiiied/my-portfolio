@@ -40,10 +40,10 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from **0
 - I owned the combat systems, encounters, and AI behaviors for the entire experience. I also worked closely with UI artists, gameplay engineers, and often represented the design team for any cross-disciplinary meetings regarding combat or progression systems.
 - I created a social system that usd the players' cards in an innovative way, so that you were building your characters' social abilities as well as their combat abilities with the same pieces (somewhat inspired by *Griftlands*, but with a pillar of **Dual Functionality** for every card).
 - By the numbers I shipped
-	- >**250** finalized card designs for the final release (after many cuts).
-	- >**80** finalized character modifier designs (like Relics in Slay the Spire).
-	- >**70** character designs, many of which were recruitable into the player's party, some had multiple phases, and all had their own combat abilities.
-	- >**120** possible combat encounters.
+	- \>**250** finalized card designs for the final release (after many cuts).
+	- \>**80** finalized character modifier designs (like Relics in Slay the Spire).
+	- \>**70** character designs, many of which were recruitable into the player's party, some had multiple phases, and all had their own combat abilities.
+	- \>**120** possible combat encounters.
 
 <font color=grey>12/2021-02/2022:</font> **Raini: The Lords of Light**
 - Worked on all initial paper design for the CCG [Raini: The Lords of Light](https://store.epicgames.com/en-US/p/raini-the-lords-of-light-eaeed0). I used spreadsheets to create all card behaviors within an extremely limited time window, and tested the game systems out on paper prior to handing off the engineering team for implementation. I also met with the client and offered consulting for system and economy designs.

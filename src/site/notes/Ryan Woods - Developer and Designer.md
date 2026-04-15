@@ -9,7 +9,7 @@ Welcome to my portfolio! I am a game designer and developer based in the Southea
 
 If I had to muse about the type of design I try to achieve, I aim for getting the most out of a limited system. Depth over breadth. I admire games like Portal that cause a player to look at a simple room layout that they've seen in 100s of other games with a fresh perspective and sense of curiosity. An ideal design for me has a minimal amount of moving pieces continuously interacting and compounding with one another.
 
-I worked as a game designer for [House of How](https://houseofhow.com/) from 05/2021 - 05/2026, beginning as a Junior Game Designer and moving up to Associate Game Designer and finally **Game Designer**. In this time I had the opportunity to work on a huge variety of projects. I will list what I can here, but of course many things are for unreleased or cancelled games that are covered by NDAs.
+I worked as a game designer for [House of How](https://houseofhow.com/) from **05/2021 - 05/2026**, beginning as a Junior Game Designer and moving up to Associate Game Designer and finally **Game Designer**. In this time I had the opportunity to work on a huge variety of projects. I will list what I can here, but of course many things are for unreleased or cancelled games that are covered by NDAs.
 
 <font color=grey>12/2025-04/2026:</font> **Contract with Crystal Dynamics** 
 - Created paper maps and UE5 whitebox levels with an emphasis on no-combat cinematic traversal and exploration for an unannounced title.

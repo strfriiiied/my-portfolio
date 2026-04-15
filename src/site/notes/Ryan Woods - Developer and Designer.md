@@ -12,8 +12,8 @@ If I had to muse about the type of design I try to achieve, I aim for getting th
 I worked as a game designer for [House of How](https://houseofhow.com/) from **05/2021 - 05/2026**, beginning as a Junior Game Designer and moving up to Associate Game Designer and finally **Game Designer**. In this time I had the opportunity to work on a huge variety of projects. I will list what I can here, but of course many things are for unreleased or cancelled games that are covered by NDAs.
 
 <span style="color: grey">12/2025-04/2026:</span> **Contract with Crystal Dynamics** 
-- Created paper maps and UE5 whitebox levels with an emphasis on no-combat cinematic traversal and exploration for an unannounced title.
 - Drew highly detailed vector paper maps for an unannounced DLC for an upcoming release which accounted for a 4.5 hour player path full of combat, exploration, puzzle solving, and challenging traversal.
+- Created paper maps and UE5 whitebox levels with an emphasis on no-combat cinematic traversal and exploration for an unannounced title.
 
 <span style="color: grey">11/2025-12/2025</span> **Multiplayer Shooter Prototype**
 - Managed playtesting for a prototype gamemode designed for a popular long-running online shooter using Unreal Engine 5.
@@ -69,4 +69,4 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from **0
 - <span style="color: grey">09/2019 - 10/2019</span> [[Portfolio/Sand\|Sand]]
 
 ## Resume
-[Download Resume (PDF)](path/to/Ryan_Woods_Resume_04_26.pdf)
+[Download Resume (PDF)](Ryan_Woods_Resume_04_26.pdf)

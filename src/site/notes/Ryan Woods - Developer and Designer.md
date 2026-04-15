@@ -5,9 +5,9 @@
 
 ![me_image.jpg\|800](/img/user/Images/me_image.jpg)
 
-Welcome to my portfolio! I am a game designer based in the Southeastern US and have been working in the games industry for the past 5 years.
+Welcome to my portfolio! I am a game designer and developer based in the Southeastern US.
 
-If I had to muse about the type of design I try to achieve, I aim for getting the most out of a limited system. Depth over breadth. I admire games like Portal that cause a player to look at a simple room layout that they've seen in 100s of other games with a fresh perspective and curiosity. An ideal design for me has the minimal amount of moving pieces compounding with each other.
+If I had to muse about the type of design I try to achieve, I aim for getting the most out of a limited system. Depth over breadth. I admire games like Portal that cause a player to look at a simple room layout that they've seen in 100s of other games with a fresh perspective and sense of curiosity. An ideal design for me has a minimal amount of moving pieces continuously interacting and compounding with one another.
 
 I worked as a game designer for [House of How](https://houseofhow.com/) from 05/2021 - 05/2026, beginning as a Junior Game Designer and moving up to Associate Game Designer and finally **Game Designer**. In this time I had the opportunity to work on a huge variety of projects. I will list what I can here, but of course many things are for unreleased or cancelled games that are covered by NDAs.
 
@@ -19,6 +19,7 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from 05/
 - Managed playtesting for a prototype gamemode designed for a popular long-running online shooter using Unreal Engine 5.
 - Wrote, collected, and compiled user surveys to analyze and assist with action plans to meet a tight deadline.
 
+![bf6-portal-3661671300.jpg\|500](/img/user/Images/bf6-portal-3661671300.jpg)
 <font color=grey>03/2025-10/2025: </font>**Battlefield 6 Portal**
 - Created experiences within early SDK versions for the new Battlefield Portal mode during its development.
 - Got up to date on their systems and processes based on early documentation while the underlying game was still going through rapid changes due to ongoing development.
@@ -26,6 +27,8 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from 05/
 - The levels my coworkers and I created were used in early promotional materials, including videos and given to popular content creators during closed betas.
 - Sat in as the representative for House of How during playtest sessions of Portal experiences with Ripple Effect Games.
 
+
+![minecraftlegends.png\|500](/img/user/Images/minecraftlegends.png)
 <font color=grey>09/2022-12/2022</font>: **Minecraft Legends**
 - Experimented with making an Musou-inspired action combat system with the UGC tools for the Ichorous Grove DLC experience.
 - Designed player and enemy move sets within the constraints of the scripting layer provided and no UI modification tools.

@@ -3,7 +3,8 @@
 ---
 
 Sand is a short, atmospheric walking sim created in 6 weeks as a solo project. The task of the project was to create a level that guides the player to the end without the use of any text. The game is about an unprepared traveler who is lost in a vast desert without any water.
-[DOWNLOAD HERE](https://drive.google.com/file/d/1ebt5mf1cnrTkl1qNq-T5twLcGILFIUnb/view?usp=sharing)
+
+[Download Here](https://drive.google.com/file/d/1ebt5mf1cnrTkl1qNq-T5twLcGILFIUnb/view?usp=sharing)
 
 ![inCanyon.png\|600](/img/user/Images/inCanyon.png)
 # Main Menu Wireframing

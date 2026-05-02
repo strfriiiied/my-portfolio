@@ -2,14 +2,18 @@
 {"dg-publish":true,"permalink":"/portfolio/5th-cataclysm/","tags":["portfolio"],"dg-note-properties":{"tags":["portfolio"]}}
 ---
 
+# Overview
 5th Catacylsm is a JRPG-style Deckbuilder hybrid featuring randomly generated loot, enemies, and a dungeon to explore.
-# Links
+
 - [Landing Page](https://5thcataclysm.com/)
 - [Itch Link](https://strfried.itch.io/5th-cataclysm)
 - [Steam Link](https://store.steampowered.com/app/3515750/5th_Cataclysm_Demo/)
 
+Below is all of the content designed for the combat system.
+
 # System Design / Wiki
 ## Cards List
+Cards are the bread and butter of the game. They represent all possible actions in combat. Each character in the game that the player can fight against has a deck of cards. A core pillar of the game is that every card should be playable by the player and by all enemies. Cards also have effects on the overworld. This can be initiating combat or affecting the environment in different ways. For example, keys can be used on doors to unlock them.
 
 ```base
 filters: file.folder == "5th Cataclysm/Cards List"
@@ -36,6 +40,7 @@ views:
 
 
 ## Enemies List
+Each enemy is represented by a character in game. Enemies are contained within Encounters, and themselves have a deck of cards and a possible reward pool.
 
 ```base
 filters: file.folder == "5th Cataclysm/Enemies List"
@@ -63,6 +68,7 @@ views:
 
 
 ## Rewards List
+Rewards can be environmental pickups, or drops from enemies after combat.
 
 ```base
 filters: file.folder == "5th Cataclysm/Rewards List"
@@ -88,6 +94,7 @@ views:
 
 
 ## Enemy Mods List
+Mods are randomly applied to enemies when combat is initiated.  They can affect health, add cards to the character's deck, and alter their reward drops.
 
 ```base
 filters: file.folder == "5th Cataclysm/Enemy Mods List"
@@ -105,6 +112,7 @@ views:
 
 
 ## Card Mods List
+Card Mods can be randomly applied to cards when they are rewarded (or perhaps through other means as well?). They can affect how much the card sells for, it's AP cost to play, and add effects to it.
 
 ```base
 filters: file.folder == "5th Cataclysm/Card Mods List"
@@ -123,6 +131,7 @@ views:
 
 
 ## Encounter Data List
+Encounters determine which enemies can spawn, what the environment looks like, and how far the enemy party can wander on the Overworld.
 
 ```base
 filters: file.folder == "5th Cataclysm/Encounter Data List"

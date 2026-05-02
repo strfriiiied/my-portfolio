@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/portfolio/binary-dreams/","tags":["portfolio","StudentProject"],"dg-note-properties":{"tags":["portfolio","StudentProject"]}}
 ---
 
-[Download Here](https://drive.google.com/file/d/1CbChH8n5yTTc6dBkXiLh_E2TmfF7W5Zl/view?usp=sharing)
-## August 2020 – December 2020
 Binary Dreams is a 2D platformer developed solo in Unity as my senior Game Design capstone project. The game features 4 distinct environments for the player to run and jump through with an assortment of interesting characters to meet.
+[Download Here](https://drive.google.com/file/d/1CbChH8n5yTTc6dBkXiLh_E2TmfF7W5Zl/view?usp=sharing)
 
 # What Went Well
 I am incredibly happy with the game itself. I had some decent narrative documentation to go along with it too and learned a ton about implementing a story.

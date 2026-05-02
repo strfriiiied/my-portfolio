@@ -67,6 +67,7 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from **0
 - <span style="color: grey">09/2020 - 12/2020</span> [[Portfolio/Binary Dreams\|Binary Dreams]]
 - <span style="color: grey">01/2020 - 04/2020</span> [[Portfolio/The Demoness of St. Valesky\|The Demoness of St. Valesky]]
 - <span style="color: grey">09/2019 - 12/2020</span> [[Portfolio/Until You Wake\|Until You Wake]]
+- <span style="color: grey">10/2019 - 12/2019</span> [[Portfolio/Night of Full Moons\|Night of Full Moons]]
 - <span style="color: grey">09/2019 - 10/2019</span> [[Portfolio/Sand\|Sand]]
 - <span style="color: grey">01/2019 - 04/2019</span> [[Portfolio/Space Gate Ultra\|Space Gate Ultra]]
 - <span style="color: grey">09/2018 - 04/2019</span> [[Portfolio/Rush Park\|Rush Park]]

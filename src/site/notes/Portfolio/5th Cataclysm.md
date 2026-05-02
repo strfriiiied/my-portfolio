@@ -9,8 +9,6 @@
 - [Itch Link](https://strfried.itch.io/5th-cataclysm)
 - [Steam Link](https://store.steampowered.com/app/3515750/5th_Cataclysm_Demo/)
 
-Below is all of the content designed for the combat system.
-
 # System Design / Wiki
 ## Cards List
 Cards are the bread and butter of the game. They represent all possible actions in combat. Each character in the game that the player can fight against has a deck of cards. A core pillar of the game is that every card should be playable by the player and by all enemies. Cards also have effects on the overworld. This can be initiating combat or affecting the environment in different ways. For example, keys can be used on doors to unlock them.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/portfolio/the-demoness-of-st-valesky/","tags":["portfolio"],"dg-note-properties":{"tags":["portfolio"]}}
 ---
 
-![Act1-Outside.png\|500](/img/user/Act1-Outside.png)
+![Act1-Outside.png\|500](/img/user/Images/Act1-Outside.png)
 The Demoness of St. Valesky is a short RPG about the leader of a mercenary group who is tasked with clearing out a dungeon full of monsters. I've kind of held an infatuation with JRPGs and SNES-era JRPG aesthetics.
 The assignment for the project was to develop a game with a focus on narrative design, and featuring *Catharsis*.
 [Download Here](https://drive.google.com/file/d/1ZEeIphy0DxffXPkB07ZQLQ207ApJkT8h/view?usp=sharing)

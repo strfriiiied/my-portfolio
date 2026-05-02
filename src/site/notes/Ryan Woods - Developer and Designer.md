@@ -67,7 +67,7 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from **0
 - <span style="color: grey">09/2020 - 12/2020</span> [[Portfolio/Binary Dreams\|Binary Dreams]]
 - <span style="color: grey">09/2019 - 12/2020</span> [[Portfolio/Until You Wake\|Until You Wake]]
 - <span style="color: grey">09/2019 - 10/2019</span> [[Portfolio/Sand\|Sand]]
-- <span style="color: grey">01/2019 - 04/2019</span> [Space Gate Ultra]
+- <span style="color: grey">01/2019 - 04/2019</span> [[Portfolio/Space Gate Ultra\|Space Gate Ultra]]
 
 ## Resume
 <iframe src="/img/user/Ryan_Woods_Resume_04_26.pdf" width="100%" height="900px" title="Ryan_Woods_Resume_04_26.pdf" style="border:1px solid #ccc;"></iframe>

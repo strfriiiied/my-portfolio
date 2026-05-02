@@ -5,9 +5,9 @@
 # Overview
 5th Cataclysm is a JRPG-style Deck builder hybrid featuring randomly generated loot, enemies, and a dungeon to explore.
 
+- [Steam](https://store.steampowered.com/app/3515750/5th_Cataclysm_Demo/)
 - [Landing Page](https://5thcataclysm.com/)
-- [Itch Link](https://strfried.itch.io/5th-cataclysm)
-- [Steam Link](https://store.steampowered.com/app/3515750/5th_Cataclysm_Demo/)
+- [Itch.io](https://strfried.itch.io/5th-cataclysm)
 
 # System Design / Wiki
 ## Cards List

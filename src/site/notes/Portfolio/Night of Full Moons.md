@@ -14,4 +14,4 @@ I was able to create a basic FPS system that plays to a lot of FPS conventions. 
 # What Didn't Work
 I massively over-scoped the game for the amount of time that was alotted to it. I wanted to have multiple paths that the player must go down in order to unlock the massive door visible towards the start. Behind that door I planned to have a boss fight. Obviously this was impossible to do in the span of 6 weeks, and I ended up scoping down to a single path (moving down to below the bridge) with no boss at the end. A smarter production plan would have been to plan for a single path, and spend more time polishing the combat. I feel like the combat ended up being too generic, and the encounters did not offer interesting challenges for the player.
 
-![redRiver.png\|600](/img/user/redRiver.png)![Snap.png\|600](/img/user/Snap.png) ![fireLightning.png\|600](/img/user/fireLightning.png) 
+![redRiver.png\|600](/img/user/Images/redRiver.png)![Snap.png\|600](/img/user/Images/Snap.png) ![fireLightning.png\|600](/img/user/Images/fireLightning.png) 

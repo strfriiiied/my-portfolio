@@ -23,7 +23,7 @@ I worked as a game designer for [House of How](https://houseofhow.com/) from **0
 <span style="color: grey">03/2025-10/2025: </span>**Battlefield 6 Portal**
 - Created experiences within early SDK versions for the new Battlefield Portal mode during its development.
 - Got up to date on their systems and processes based on early documentation while the underlying game was still going through rapid changes due to ongoing development.
-- Shipped the Bomb Defusal mode, which is provided with its Typescript source code with the SDK download for all users.
+- Shipped the Bomb Squad mode, which is provided with its Typescript source code with the SDK download for all users.
 - The levels my coworkers and I created were used in early promotional materials, including videos and given to popular content creators during closed betas.
 - Sat in as the representative for House of How during playtest sessions of Portal experiences with Ripple Effect Games.
 

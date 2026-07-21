@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/portfolio/backwav/","tags":["portfolio","StudentProject"],"dg-note-properties":{"tags":["portfolio","StudentProject"],"dg":null}}
 ---
 
-![Snapshot_38.jpg](/img/user/Images/Snapshot_38.jpg)
+![BackWav-Short1-3.gif](/img/user/Images/BackWav-Short1-3.gif)
 
 [Download Here](https://drive.google.com/file/d/16jeyedKiguJepKuNQJhIW1uhuypbpBCE/view?usp=drive_link)
 <iframe src="https://www.youtube.com/embed/USxVJbEtjKQ" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -14,7 +14,8 @@ I worked as the design director, gameplay programmer, and filler of all other ga
 # Preproduction Design Process
 Prior to the official start of the project at the beginning of my final semester of college, I devoted some of my winter break to creating a master GDD to serve as documentation for each major facet of the game and something to refer to over the course of the semester. This felt like a necessary step for staying organized as there were a ton of potential risks in a 1-semester 3D project in an engine that was new to all of us. It was also intended to allow for basic iteration before going through the time-consuming process of prototyping features. Yet another benefit is that it made it much easier to prioritize features, and determine which ones could be cut with the least impact on the game for the user.
 [[BackWav GDD.pdf|PDF too large to embed]]
-![BackWav-Short1-3.gif](/img/user/Images/BackWav-Short1-3.gif)
+
+![Snapshot_38.jpg](/img/user/Images/Snapshot_38.jpg)
 
 # What I Worked On
 My core focuses and responsibilities for this project were:

@@ -34,7 +34,7 @@ For the pause menu, I have the character exhale and use an effect that looks lik
 *In-game Options Sub-menu*
 
 # Full Wireframe
-<iframe src="/img/user/GAT261-Prototype.pdf" width="100%" height="900px" title="GAT261-Prototype.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/PDFs/GAT261-Prototype.pdf" width="100%" height="900px" title="PDFs/GAT261-Prototype.pdf" style="border:1px solid #ccc;"></iframe>
 
 # UI Proposal Document
-<iframe src="/img/user/Sand_MenuProposal.pdf" width="100%" height="900px" title="Sand_MenuProposal.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/PDFs/Sand_MenuProposal.pdf" width="100%" height="900px" title="PDFs/Sand_MenuProposal.pdf" style="border:1px solid #ccc;"></iframe>

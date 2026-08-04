@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/punch/","tags":["CardData"],"dg-note-properties":{"Name":"Punch","AP":1,"Uses":1,"Is Temp":true,"Is Repairable":false,"Price":0,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"Deal 5 PHYS.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/punch/","tags":["CardData"],"dg-note-properties":{"Card Name":"Punch","AP Cost":"1","Description":"Deal 5 PHYS.","Is Repairable":"false","Price":"0","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Punch
+**Punch**: Deal 5 PHYS.
 AP Cost: 1
-Uses: 1
-Is Temporary: true
-Is Repairable: false
 Price: 0
-Description: Deal 5 PHYS.
+Targets: ENEMY
+Is Repairable: false
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/serrated-blade/","tags":["CardData"],"dg-note-properties":{"Name":"Serrated Blade","AP":1,"Uses":5,"Is Temp":false,"Is Repairable":true,"Price":8,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"Deal 1 PHYS. Add 1 \"Deep Cut\" to Target's Draw Pile.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/serrated-blade/","tags":["CardData"],"dg-note-properties":{"Card Name":"Serrated Blade","AP Cost":"1","Description":"Deal 1 PHYS. Add 1 Deep Cut to Target's Draw Pile.","Is Repairable":"true","Price":"8","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Serrated Blade
+**Serrated Blade**: Deal 1 PHYS. Add 1 Deep Cut to Target's Draw Pile.
 AP Cost: 1
-Uses: 5
-Is Temporary: false
-Is Repairable: true
 Price: 8
-Description: Deal 1 PHYS. Add 1 "Deep Cut" to Target's Draw Pile.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

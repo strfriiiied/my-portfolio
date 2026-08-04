@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/armed-additional-rewards-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"armed_additional_rewards.tres","Cards Count":1,"Chance for Another Card":0.5,"Possible Base Cards":"Pistol","Possible Modifiers":"Water, Smoldering, Sharp, Earth, Airy","Money":"2-3","Mod Count":"0-3","Rewards All Listed Cards":false,"Links":"Cards: [[5th Cataclysm/Cards List/Pistol\|Pistol]]  Mods: [[5th Cataclysm/Card Mods List/Water\|Water]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Earth\|Earth]] [[5th Cataclysm/Card Mods List/Airy\|Airy]]","tags":"Reward"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/armed-additional-rewards-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"armed_additional_rewards.tres","Cards Count":"1","Chance for Another Card":"0.5","Possible Base Cards":"Pistol","Possible Modifiers":"Water, Smoldering, Sharp, Earth, Airy","Money":"2-3","Mod Count":"0-3","Rewards All Listed Cards":"false","Links":"Cards: [[5th Cataclysm/Cards List/Pistol\|Pistol]]  Mods: [[5th Cataclysm/Card Mods List/Water\|Water]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Earth\|Earth]] [[5th Cataclysm/Card Mods List/Airy\|Airy]]","tags":["Reward"]}}
 ---
 
-
+#armed_additional_rewards.tres
+Range of Card Rewards Count: 1
+Chance for Additional Card: 0.5
+Rewards: Pistol
+Water, Smoldering, Sharp, Earth, Airy
+2-3
+0-3
+Rewards All Cards (rather than random): false
 Cards: [[5th Cataclysm/Cards List/Pistol\|Pistol]]  Mods: [[5th Cataclysm/Card Mods List/Water\|Water]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Earth\|Earth]] [[5th Cataclysm/Card Mods List/Airy\|Airy]]

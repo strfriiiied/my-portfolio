@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/caffeine-pill/","tags":["CardData"],"dg-note-properties":{"Name":"Caffeine Pill","AP":0,"Uses":1,"Is Temp":false,"Is Repairable":false,"Price":6,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"Gain 1 AP.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/caffeine-pill/","tags":["CardData"],"dg-note-properties":{"Card Name":"Caffeine Pill","AP Cost":"0","Description":"Gain 1 AP.","Is Repairable":"false","Price":"6","Targets":"SELF","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Caffeine Pill
+**Caffeine Pill**: Gain 1 AP.
 AP Cost: 0
-Uses: 1
-Is Temporary: false
-Is Repairable: false
 Price: 6
-Description: Gain 1 AP.
+Targets: SELF
+Is Repairable: false
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

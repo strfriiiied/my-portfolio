@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/acid-slime/","tags":["CardData"],"dg-note-properties":{"Name":"Acid Slime","AP":1,"Uses":1,"Is Temp":true,"Is Repairable":false,"Price":0,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"Take +2 extra WATER. When Drawn: Take 1 PHYS. FRAGILE.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/acid-slime/","tags":["CardData"],"dg-note-properties":{"Card Name":"Acid Slime","AP Cost":"1","Description":"Take +2 extra WATER. When Drawn: Take 1 WATER. FRAGILE.","Is Repairable":"false","Price":"0","Targets":"SELF","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Acid Slime
+**Acid Slime**: Take +2 extra WATER. When Drawn: Take 1 WATER. FRAGILE.
 AP Cost: 1
-Uses: 1
-Is Temporary: true
-Is Repairable: false
 Price: 0
-Description: Take +2 extra WATER. When Drawn: Take 1 PHYS. FRAGILE.
+Targets: SELF
+Is Repairable: false
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

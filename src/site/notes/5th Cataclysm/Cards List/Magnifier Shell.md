@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/magnifier-shell/","tags":["CardData"],"dg-note-properties":{"Name":"Magnifier Shell","AP":1,"Uses":1,"Is Temp":false,"Is Repairable":true,"Price":65,"Stocked by Moonman":false,"Stocked by Starman":true,"Description":"Reflect FIRE x2. Unplayable.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/magnifier-shell/","tags":["CardData"],"dg-note-properties":{"Card Name":"Magnifier Shell","AP Cost":"1","Description":"Reflect FIRE x2.0. Unplayable.","Is Repairable":"true","Price":"65","Targets":"SELF","Stocked by Item Merchant":"true","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Magnifier Shell
+**Magnifier Shell**: Reflect FIRE x2.0. Unplayable.
 AP Cost: 1
-Uses: 1
-Is Temporary: false
-Is Repairable: true
 Price: 65
-Description: Reflect FIRE x2. Unplayable.
+Targets: SELF
+Is Repairable: true
+Is stocked by Item Merchant: true
+Is stocked by Weapon Merchant: false
+

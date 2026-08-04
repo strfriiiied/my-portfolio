@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/defend/","tags":["CardData"],"dg-note-properties":{"Name":"Defend","AP":1,"Uses":2,"Is Temp":false,"Is Repairable":false,"Price":5,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"Gain 5 BLOCK.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/defend/","tags":["CardData"],"dg-note-properties":{"Card Name":"Defend","AP Cost":"1","Description":"Gain 5 BLOCK.","Is Repairable":"false","Price":"5","Targets":"SELF","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Defend
+**Defend**: Gain 5 BLOCK.
 AP Cost: 1
-Uses: 2
-Is Temporary: false
-Is Repairable: false
 Price: 5
-Description: Gain 5 BLOCK.
+Targets: SELF
+Is Repairable: false
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

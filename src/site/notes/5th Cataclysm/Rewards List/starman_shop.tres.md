@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/starman-shop-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"starman_shop.tres","Cards Count":8,"Chance for Another Card":0,"Possible Base Cards":"Manhole Cover, Caffeine Pill, Bandages, Stimulant, Binding, Teleport Ritual Kit","Possible Modifiers":"Defensive, Rummaging, Ugly, Sharp, Dull","Money":"10-25","Mod Count":"0-1","Rewards All Listed Cards":false,"Links":"Cards: [[5th Cataclysm/Cards List/Manhole Cover\|Manhole Cover]] [[5th Cataclysm/Cards List/Caffeine Pill\|Caffeine Pill]] [[5th Cataclysm/Cards List/Bandages\|Bandages]] [[5th Cataclysm/Cards List/Stimulant\|Stimulant]] [[5th Cataclysm/Cards List/Binding\|Binding]] [[5th Cataclysm/Cards List/Teleport Ritual Kit\|Teleport Ritual Kit]]  Mods: [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Ugly\|Ugly]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Dull\|Dull]]","tags":"Reward"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/starman-shop-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"starman_shop.tres","Cards Count":"8","Chance for Another Card":"0.0","Possible Base Cards":"Manhole Cover, Caffeine Pill, Bandages, Stimulant, Binding, Teleport Ritual Kit","Possible Modifiers":"Defensive, Rummaging, Ugly, Sharp, Dull","Money":"10-25","Mod Count":"0-1","Rewards All Listed Cards":"false","Links":"Cards: [[5th Cataclysm/Cards List/Manhole Cover\|Manhole Cover]] [[5th Cataclysm/Cards List/Caffeine Pill\|Caffeine Pill]] [[5th Cataclysm/Cards List/Bandages\|Bandages]] [[5th Cataclysm/Cards List/Stimulant\|Stimulant]] [[5th Cataclysm/Cards List/Binding\|Binding]] [[5th Cataclysm/Cards List/Teleport Ritual Kit\|Teleport Ritual Kit]]  Mods: [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Ugly\|Ugly]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Dull\|Dull]]","tags":["Reward"]}}
 ---
 
-
+#starman_shop.tres
+Range of Card Rewards Count: 8
+Chance for Additional Card: 0.0
+Rewards: Manhole Cover, Caffeine Pill, Bandages, Stimulant, Binding, Teleport Ritual Kit
+Defensive, Rummaging, Ugly, Sharp, Dull
+10-25
+0-1
+Rewards All Cards (rather than random): false
 Cards: [[5th Cataclysm/Cards List/Manhole Cover\|Manhole Cover]] [[5th Cataclysm/Cards List/Caffeine Pill\|Caffeine Pill]] [[5th Cataclysm/Cards List/Bandages\|Bandages]] [[5th Cataclysm/Cards List/Stimulant\|Stimulant]] [[5th Cataclysm/Cards List/Binding\|Binding]] [[5th Cataclysm/Cards List/Teleport Ritual Kit\|Teleport Ritual Kit]]  Mods: [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Ugly\|Ugly]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Dull\|Dull]]

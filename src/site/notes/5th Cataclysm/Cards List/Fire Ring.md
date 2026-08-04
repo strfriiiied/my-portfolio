@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/fire-ring/","tags":["CardData"],"dg-note-properties":{"Name":"Fire Ring","AP":1,"Uses":10,"Is Temp":false,"Is Repairable":true,"Price":4,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"Deal 5 FIRE. Take +3 extra WATER.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/fire-ring/","tags":["CardData"],"dg-note-properties":{"Card Name":"Fire Ring","AP Cost":"1","Description":"Deal 5 FIRE. Take +3 extra WATER.","Is Repairable":"true","Price":"4","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Fire Ring
+**Fire Ring**: Deal 5 FIRE. Take +3 extra WATER.
 AP Cost: 1
-Uses: 10
-Is Temporary: false
-Is Repairable: true
 Price: 4
-Description: Deal 5 FIRE. Take +3 extra WATER.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

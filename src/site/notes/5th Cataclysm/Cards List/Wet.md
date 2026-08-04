@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/wet/","tags":["CardData"],"dg-note-properties":{"Name":"Wet","AP":1,"Uses":1,"Is Temp":true,"Is Repairable":false,"Price":0,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"Take +5 extra WATER. Unplayable. FRAGILE.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/wet/","tags":["CardData"],"dg-note-properties":{"Card Name":"Wet","AP Cost":"1","Description":"Take +5 extra WATER. Unplayable. FRAGILE.","Is Repairable":"false","Price":"0","Targets":"SELF","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Wet
+**Wet**: Take +5 extra WATER. Unplayable. FRAGILE.
 AP Cost: 1
-Uses: 1
-Is Temporary: true
-Is Repairable: false
 Price: 0
-Description: Take +5 extra WATER. Unplayable. FRAGILE.
+Targets: SELF
+Is Repairable: false
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

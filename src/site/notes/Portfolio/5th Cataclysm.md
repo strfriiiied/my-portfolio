@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/portfolio/5th-cataclysm/","tags":["portfolio"],"dg-note-properties":{"tags":["portfolio"]}}
 ---
 
-# Overview
 5th Cataclysm is a JRPG-style Deck builder hybrid featuring randomly generated loot, enemies, and a dungeon to explore.
 
 - [Steam](https://store.steampowered.com/app/3515750/5th_Cataclysm_Demo/)
@@ -20,19 +19,16 @@ views:
     name: Table
     order:
       - file.name
-      - AP
-      - Uses
+      - Card Name
+      - AP Cost
       - Description
-      - Is Temp
       - Is Repairable
       - Price
-      - Stocked by Moonman
-      - Stocked by Starman
-    columnSize:
-      note.AP: 74
-      note.Uses: 81
-      note.Description: 562
-      note.Price: 72
+      - Targets
+      - Stocked by Item Merchant
+      - Stocked by Weapon Merchant
+      - tags
+      - dg-publish
 
 ```
 
@@ -47,20 +43,14 @@ views:
     name: Table
     order:
       - file.name
+      - Name
       - HP
       - Hand Draw Size
       - Deck
       - Rewards
+      - Links
       - tags
-    sort:
-      - property: file.name
-        direction: ASC
-      - property: Deck
-        direction: ASC
-    columnSize:
-      note.HP: 57
-      note.Hand Draw Size: 130
-      note.Deck: 841
+      - dg-publish
 
 ```
 
@@ -75,6 +65,7 @@ views:
     name: Table
     order:
       - file.name
+      - Filename
       - Cards Count
       - Chance for Another Card
       - Possible Base Cards
@@ -82,11 +73,9 @@ views:
       - Money
       - Mod Count
       - Rewards All Listed Cards
-    sort:
-      - property: file.name
-        direction: ASC
-      - property: Cards Count
-        direction: DESC
+      - Links
+      - tags
+      - dg-publish
 
 ```
 
@@ -103,8 +92,12 @@ views:
       - file.name
       - Mod Name
       - Cards Added to Deck
-      - HP Change
+      - HP% Change
       - Additional Rewards
+      - Filename
+      - Links
+      - tags
+      - dg-publish
 
 ```
 
@@ -119,11 +112,15 @@ views:
     name: Table
     order:
       - file.name
+      - Name
       - Prefix
       - Suffix
-      - Price Mod
-      - AP Mod
+      - Price Modifier
+      - AP Modifier
       - Effects
+      - Links
+      - tags
+      - dg-publish
 
 ```
 
@@ -138,14 +135,32 @@ views:
     name: Table
     order:
       - file.name
+      - Filename
       - Enemies
       - Possible Enemy Modifiers
       - Environment
-      - Wander Range
-      - Stay on Map
-    sort:
-      - property: Stay on Map
-        direction: ASC
+      - Links
+      - tags
+      - dg-publish
 
 ```
 
+
+# Challenges
+In the new roguelike version, challenges are intended to be the primary form of meta progression.
+
+```base
+filters: file.folder == "5th Cataclysm/Challenges List"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Challenge Name
+      - Description
+      - Links
+      - tags
+      - Filename
+      - dg-publish
+
+```

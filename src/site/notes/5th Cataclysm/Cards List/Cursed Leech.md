@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/cursed-leech/","tags":["CardData"],"dg-note-properties":{"Name":"Cursed Leech","AP":1,"Uses":3,"Is Temp":false,"Is Repairable":true,"Price":25,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"Deal 6 PHYS.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/cursed-leech/","tags":["CardData"],"dg-note-properties":{"Card Name":"Cursed Leech","AP Cost":"1","Description":"Deal 6 PHYS.","Is Repairable":"true","Price":"25","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Cursed Leech
+**Cursed Leech**: Deal 6 PHYS.
 AP Cost: 1
-Uses: 3
-Is Temporary: false
-Is Repairable: true
 Price: 25
-Description: Deal 6 PHYS.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

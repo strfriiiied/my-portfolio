@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/encounter-data-list/en-gremlin-shooter-tres/","tags":["EncounterData"],"dg-note-properties":{"Filename":"EN_gremlin-shooter.tres","Enemies":"Gremlin Shooter","Possible Enemy Modifiers":"Fiery, Slimy, Sturdy, Armed, Weak","Environment":"ENVIRONMENT_Battle1.tres","Wander Range":160,"Stay on Map":false,"tags":"EncounterData","Links":"Enemies: [[5th Cataclysm/Enemies List/Gremlin Shooter\|Gremlin Shooter]] [[5th Cataclysm/Enemy Mods List/CM_Fiery\|CM_Fiery]] [[5th Cataclysm/Enemy Mods List/CM_Slimy\|CM_Slimy]] [[5th Cataclysm/Enemy Mods List/CM_Sturdy\|CM_Sturdy]] [[5th Cataclysm/Enemy Mods List/CM_Armed\|CM_Armed]] [[5th Cataclysm/Enemy Mods List/CM_Weak\|CM_Weak]]"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/encounter-data-list/en-gremlin-shooter-tres/","tags":["EncounterData"],"dg-note-properties":{"Filename":"EN_gremlin-shooter.tres","Enemies":"Gremlin Shooter","Possible Enemy Modifiers":"Fiery, Slimy, Sturdy, Armed, Weak","Environment":"ENVIRONMENT_Battle1.tres","Links":"Enemies: [[5th Cataclysm/Enemies List/Gremlin Shooter\|Gremlin Shooter]] [[5th Cataclysm/Enemy Mods List/CM_Fiery\|CM_Fiery]] [[5th Cataclysm/Enemy Mods List/CM_Slimy\|CM_Slimy]] [[5th Cataclysm/Enemy Mods List/CM_Sturdy\|CM_Sturdy]] [[5th Cataclysm/Enemy Mods List/CM_Armed\|CM_Armed]] [[5th Cataclysm/Enemy Mods List/CM_Weak\|CM_Weak]]","tags":["EncounterData"]}}
 ---
 
+# EN_gremlin-shooter.tres
+Enemies: Gremlin Shooter
+Possible Enemy Modifiers: Fiery, Slimy, Sturdy, Armed, Weak
+Environment: ENVIRONMENT_Battle1.tres
 
 Enemies: [[5th Cataclysm/Enemies List/Gremlin Shooter\|Gremlin Shooter]] [[5th Cataclysm/Enemy Mods List/CM_Fiery\|CM_Fiery]] [[5th Cataclysm/Enemy Mods List/CM_Slimy\|CM_Slimy]] [[5th Cataclysm/Enemy Mods List/CM_Sturdy\|CM_Sturdy]] [[5th Cataclysm/Enemy Mods List/CM_Armed\|CM_Armed]] [[5th Cataclysm/Enemy Mods List/CM_Weak\|CM_Weak]]

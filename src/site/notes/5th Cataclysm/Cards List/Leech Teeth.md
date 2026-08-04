@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/leech-teeth/","tags":["CardData"],"dg-note-properties":{"Name":"Leech Teeth","AP":1,"Uses":5,"Is Temp":false,"Is Repairable":true,"Price":12,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"4PHYSLifesteal.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/leech-teeth/","tags":["CardData"],"dg-note-properties":{"Card Name":"Leech Teeth","AP Cost":"1","Description":"4PHYS Lifesteal.","Is Repairable":"true","Price":"12","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Leech Teeth
+**Leech Teeth**: 4PHYS Lifesteal.
 AP Cost: 1
-Uses: 5
-Is Temporary: false
-Is Repairable: true
 Price: 12
-Description: 4PHYSLifesteal.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

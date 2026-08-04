@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/manhole-cover/","tags":["CardData"],"dg-note-properties":{"Name":"Manhole Cover","AP":1,"Uses":5,"Is Temp":false,"Is Repairable":true,"Price":3,"Stocked by Moonman":false,"Stocked by Starman":true,"Description":"Gain 5 BLOCK.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/manhole-cover/","tags":["CardData"],"dg-note-properties":{"Card Name":"Manhole Cover","AP Cost":"1","Description":"Gain 5 BLOCK.","Is Repairable":"true","Price":"3","Targets":"SELF","Stocked by Item Merchant":"true","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Manhole Cover
+**Manhole Cover**: Gain 5 BLOCK.
 AP Cost: 1
-Uses: 5
-Is Temporary: false
-Is Repairable: true
 Price: 3
-Description: Gain 5 BLOCK.
+Targets: SELF
+Is Repairable: true
+Is stocked by Item Merchant: true
+Is stocked by Weapon Merchant: false
+

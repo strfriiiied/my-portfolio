@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/rewards1-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"rewards1.tres","Cards Count":1,"Chance for Another Card":0.5,"Possible Base Cards":"Fire Ring, Kunai","Possible Modifiers":"Dull, Sharp, Smoldering, Heavy, Light, Rummaging, Defensive","Money":"1-2","Mod Count":"0-2","Rewards All Listed Cards":false,"Links":"Cards: [[5th Cataclysm/Cards List/Fire Ring\|Fire Ring]] [[5th Cataclysm/Cards List/Kunai\|Kunai]]  Mods: [[5th Cataclysm/Card Mods List/Dull\|Dull]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]]","tags":"Reward"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/rewards1-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"rewards1.tres","Cards Count":"1","Chance for Another Card":"0.5","Possible Base Cards":"Fire Ring, Kunai","Possible Modifiers":"Dull, Sharp, Smoldering, Heavy, Light, Rummaging, Defensive","Money":"1-2","Mod Count":"0-2","Rewards All Listed Cards":"false","Links":"Cards: [[5th Cataclysm/Cards List/Fire Ring\|Fire Ring]] [[5th Cataclysm/Cards List/Kunai\|Kunai]]  Mods: [[5th Cataclysm/Card Mods List/Dull\|Dull]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]]","tags":["Reward"]}}
 ---
 
-
+#rewards1.tres
+Range of Card Rewards Count: 1
+Chance for Additional Card: 0.5
+Rewards: Fire Ring, Kunai
+Dull, Sharp, Smoldering, Heavy, Light, Rummaging, Defensive
+1-2
+0-2
+Rewards All Cards (rather than random): false
 Cards: [[5th Cataclysm/Cards List/Fire Ring\|Fire Ring]] [[5th Cataclysm/Cards List/Kunai\|Kunai]]  Mods: [[5th Cataclysm/Card Mods List/Dull\|Dull]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]]

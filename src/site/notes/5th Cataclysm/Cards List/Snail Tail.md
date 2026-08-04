@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/snail-tail/","tags":["CardData"],"dg-note-properties":{"Name":"Snail Tail","AP":1,"Uses":3,"Is Temp":false,"Is Repairable":true,"Price":12,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"Deal 7 WATER. Take +4 extra EARTH.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/snail-tail/","tags":["CardData"],"dg-note-properties":{"Card Name":"Snail Tail","AP Cost":"1","Description":"Deal 7 WATER. Take +4 extra EARTH.","Is Repairable":"true","Price":"12","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Snail Tail
+**Snail Tail**: Deal 7 WATER. Take +4 extra EARTH.
 AP Cost: 1
-Uses: 3
-Is Temporary: false
-Is Repairable: true
 Price: 12
-Description: Deal 7 WATER. Take +4 extra EARTH.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

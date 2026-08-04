@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/hot-sword/","tags":["CardData"],"dg-note-properties":{"Name":"Hot Sword","AP":1,"Uses":10,"Is Temp":false,"Is Repairable":true,"Price":200,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"Deal 16 FIRE. Take x2.0 extra WATER.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/hot-sword/","tags":["CardData"],"dg-note-properties":{"Card Name":"Hot Sword","AP Cost":"1","Description":"Deal 16 FIRE. Take x2.0 extra WATER.","Is Repairable":"true","Price":"200","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Hot Sword
+**Hot Sword**: Deal 16 FIRE. Take x2.0 extra WATER.
 AP Cost: 1
-Uses: 10
-Is Temporary: false
-Is Repairable: true
 Price: 200
-Description: Deal 16 FIRE. Take x2.0 extra WATER.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

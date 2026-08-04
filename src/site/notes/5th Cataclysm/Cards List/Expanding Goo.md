@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/expanding-goo/","tags":["CardData"],"dg-note-properties":{"Name":"Expanding Goo","AP":1,"Uses":4,"Is Temp":false,"Is Repairable":true,"Price":8,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"On Discard: Add a (temporary) copy of this card to your discard pile. Take +2 extra WATER. Deal -2 PHYS.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/expanding-goo/","tags":["CardData"],"dg-note-properties":{"Card Name":"Expanding Goo","AP Cost":"1","Description":"On Discard: Add a (temporary) copy of this card to your discard pile. Take +2 extra WATER. Deal -2 FIRE.","Is Repairable":"true","Price":"8","Targets":"SELF","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Expanding Goo
+**Expanding Goo**: On Discard: Add a (temporary) copy of this card to your discard pile. Take +2 extra WATER. Deal -2 FIRE.
 AP Cost: 1
-Uses: 4
-Is Temporary: false
-Is Repairable: true
 Price: 8
-Description: On Discard: Add a (temporary) copy of this card to your discard pile. Take +2 extra WATER. Deal -2 PHYS.
+Targets: SELF
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

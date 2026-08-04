@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/kunai/","tags":["CardData"],"dg-note-properties":{"Name":"Kunai","AP":1,"Uses":5,"Is Temp":false,"Is Repairable":true,"Price":7,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"Deal 7 PHYS.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/kunai/","tags":["CardData"],"dg-note-properties":{"Card Name":"Kunai","AP Cost":"1","Description":"Deal 7 PHYS.","Is Repairable":"true","Price":"7","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Kunai
+**Kunai**: Deal 7 PHYS.
 AP Cost: 1
-Uses: 5
-Is Temporary: false
-Is Repairable: true
 Price: 7
-Description: Deal 7 PHYS.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

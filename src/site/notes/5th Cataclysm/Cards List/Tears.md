@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/tears/","tags":["CardData"],"dg-note-properties":{"Name":"Tears","AP":1,"Uses":4,"Is Temp":false,"Is Repairable":true,"Price":7,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"Deal 3 WATER. Add 1 \"Wet\" to Target's Draw Pile. Take +5 extra FIRE.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/tears/","tags":["CardData"],"dg-note-properties":{"Card Name":"Tears","AP Cost":"1","Description":"Deal 3 WATER. Add 1 Wet to Target's Draw Pile. Take +5 extra FIRE.","Is Repairable":"true","Price":"7","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Tears
+**Tears**: Deal 3 WATER. Add 1 Wet to Target's Draw Pile. Take +5 extra FIRE.
 AP Cost: 1
-Uses: 4
-Is Temporary: false
-Is Repairable: true
 Price: 7
-Description: Deal 3 WATER. Add 1 "Wet" to Target's Draw Pile. Take +5 extra FIRE.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

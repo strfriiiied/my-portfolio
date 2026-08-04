@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/gooey-flesh/","tags":["CardData"],"dg-note-properties":{"Name":"Gooey Flesh","AP":1,"Uses":30,"Is Temp":false,"Is Repairable":true,"Price":0,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"While in hand: each instance of damage recieved discards a random card from the attackers' hand. Unplayable.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/gooey-flesh/","tags":["CardData"],"dg-note-properties":{"Card Name":"Gooey Flesh","AP Cost":"1","Description":"While in hand: each instance of damage received discards a random card from the attackers' hand. Unplayable.","Is Repairable":"true","Price":"0","Targets":"SELF","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Gooey Flesh
+**Gooey Flesh**: While in hand: each instance of damage received discards a random card from the attackers' hand. Unplayable.
 AP Cost: 1
-Uses: 30
-Is Temporary: false
-Is Repairable: true
 Price: 0
-Description: While in hand: each instance of damage recieved discards a random card from the attackers' hand. Unplayable.
+Targets: SELF
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

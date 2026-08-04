@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/slimy-flesh/","tags":["CardData"],"dg-note-properties":{"Name":"Slimy Flesh","AP":1,"Uses":10,"Is Temp":false,"Is Repairable":true,"Price":15,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"While in hand: each instance of damage recieved discards a random card from the attackers' hand.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/slimy-flesh/","tags":["CardData"],"dg-note-properties":{"Card Name":"Slimy Flesh","AP Cost":"1","Description":"While in hand: each instance of damage received discards a random card from the attackers' hand.","Is Repairable":"true","Price":"15","Targets":"SELF","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Slimy Flesh
+**Slimy Flesh**: While in hand: each instance of damage received discards a random card from the attackers' hand.
 AP Cost: 1
-Uses: 10
-Is Temporary: false
-Is Repairable: true
 Price: 15
-Description: While in hand: each instance of damage recieved discards a random card from the attackers' hand.
+Targets: SELF
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

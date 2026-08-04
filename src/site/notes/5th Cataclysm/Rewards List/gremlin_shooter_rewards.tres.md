@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/gremlin-shooter-rewards-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"gremlin_shooter_rewards.tres","Cards Count":1,"Chance for Another Card":0.75,"Possible Base Cards":"Pistol, Small Pouch","Possible Modifiers":"Smoldering, Heavy, Light, Rummaging, Defensive, Dull, Sharp","Money":"2-4","Mod Count":"0-2","Rewards All Listed Cards":false,"Links":"Cards: [[5th Cataclysm/Cards List/Pistol\|Pistol]] [[5th Cataclysm/Cards List/Small Pouch\|Small Pouch]]  Mods: [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Dull\|Dull]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]]","tags":"Reward"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/gremlin-shooter-rewards-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"gremlin_shooter_rewards.tres","Cards Count":"1","Chance for Another Card":"0.75","Possible Base Cards":"Pistol, Small Pouch","Possible Modifiers":"Smoldering, Heavy, Light, Rummaging, Defensive, Dull, Sharp","Money":"2-4","Mod Count":"0-2","Rewards All Listed Cards":"false","Links":"Cards: [[5th Cataclysm/Cards List/Pistol\|Pistol]] [[5th Cataclysm/Cards List/Small Pouch\|Small Pouch]]  Mods: [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Dull\|Dull]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]]","tags":["Reward"]}}
 ---
 
-
+#gremlin_shooter_rewards.tres
+Range of Card Rewards Count: 1
+Chance for Additional Card: 0.75
+Rewards: Pistol, Small Pouch
+Smoldering, Heavy, Light, Rummaging, Defensive, Dull, Sharp
+2-4
+0-2
+Rewards All Cards (rather than random): false
 Cards: [[5th Cataclysm/Cards List/Pistol\|Pistol]] [[5th Cataclysm/Cards List/Small Pouch\|Small Pouch]]  Mods: [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Dull\|Dull]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]]

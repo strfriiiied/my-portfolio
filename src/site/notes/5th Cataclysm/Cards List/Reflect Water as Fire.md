@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/reflect-water-as-fire/","tags":["CardData"],"dg-note-properties":{"Name":"Reflect Water as Fire","AP":1,"Uses":10,"Is Temp":false,"Is Repairable":true,"Price":0,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"Reflect WATER as PHYS.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/reflect-water-as-fire/","tags":["CardData"],"dg-note-properties":{"Card Name":"Reflect Water as Fire","AP Cost":"1","Description":"Reflect WATER as PHYS.","Is Repairable":"true","Price":"0","Targets":"SELF","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Reflect Water as Fire
+**Reflect Water as Fire**: Reflect WATER as PHYS.
 AP Cost: 1
-Uses: 10
-Is Temporary: false
-Is Repairable: true
 Price: 0
-Description: Reflect WATER as PHYS.
+Targets: SELF
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

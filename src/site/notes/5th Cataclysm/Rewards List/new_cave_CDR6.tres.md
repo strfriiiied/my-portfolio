@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/new-cave-cdr-6-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"new_cave_CDR6.tres","Cards Count":1,"Chance for Another Card":0.5,"Possible Base Cards":"Kunai, Lead Pipe, Small Pouch, Cherry Cola","Possible Modifiers":"Defensive, Beautiful, Sharp, Smoldering, Ugly, Airy, Rummaging","Money":"1-3","Mod Count":"0-3","Rewards All Listed Cards":false,"Links":"Cards: [[5th Cataclysm/Cards List/Kunai\|Kunai]] [[5th Cataclysm/Cards List/Lead Pipe\|Lead Pipe]] [[5th Cataclysm/Cards List/Small Pouch\|Small Pouch]] [[5th Cataclysm/Cards List/Cherry Cola\|Cherry Cola]]  Mods: [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Beautiful\|Beautiful]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Ugly\|Ugly]] [[5th Cataclysm/Card Mods List/Airy\|Airy]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]]","tags":"Reward"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/new-cave-cdr-6-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"new_cave_CDR6.tres","Cards Count":"1","Chance for Another Card":"0.5","Possible Base Cards":"Kunai, Lead Pipe, Small Pouch, Cherry Cola","Possible Modifiers":"Defensive, Beautiful, Sharp, Smoldering, Ugly, Airy, Rummaging","Money":"1-3","Mod Count":"0-3","Rewards All Listed Cards":"false","Links":"Cards: [[5th Cataclysm/Cards List/Kunai\|Kunai]] [[5th Cataclysm/Cards List/Lead Pipe\|Lead Pipe]] [[5th Cataclysm/Cards List/Small Pouch\|Small Pouch]] [[5th Cataclysm/Cards List/Cherry Cola\|Cherry Cola]]  Mods: [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Beautiful\|Beautiful]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Ugly\|Ugly]] [[5th Cataclysm/Card Mods List/Airy\|Airy]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]]","tags":["Reward"]}}
 ---
 
-
+#new_cave_CDR6.tres
+Range of Card Rewards Count: 1
+Chance for Additional Card: 0.5
+Rewards: Kunai, Lead Pipe, Small Pouch, Cherry Cola
+Defensive, Beautiful, Sharp, Smoldering, Ugly, Airy, Rummaging
+1-3
+0-3
+Rewards All Cards (rather than random): false
 Cards: [[5th Cataclysm/Cards List/Kunai\|Kunai]] [[5th Cataclysm/Cards List/Lead Pipe\|Lead Pipe]] [[5th Cataclysm/Cards List/Small Pouch\|Small Pouch]] [[5th Cataclysm/Cards List/Cherry Cola\|Cherry Cola]]  Mods: [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Beautiful\|Beautiful]] [[5th Cataclysm/Card Mods List/Sharp\|Sharp]] [[5th Cataclysm/Card Mods List/Smoldering\|Smoldering]] [[5th Cataclysm/Card Mods List/Ugly\|Ugly]] [[5th Cataclysm/Card Mods List/Airy\|Airy]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]]

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/jackhammer/","tags":["CardData"],"dg-note-properties":{"Name":"Jackhammer","AP":1,"Uses":40,"Is Temp":false,"Is Repairable":true,"Price":19,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"When Drawn: Deal 1 PHYS. Deal x0.5 PHYS. Unplayable.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/jackhammer/","tags":["CardData"],"dg-note-properties":{"Card Name":"Jackhammer","AP Cost":"1","Description":"When Drawn: Deal 1 EARTH. Deal x0.5 AIR. Unplayable.","Is Repairable":"true","Price":"19","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Jackhammer
+**Jackhammer**: When Drawn: Deal 1 EARTH. Deal x0.5 AIR. Unplayable.
 AP Cost: 1
-Uses: 40
-Is Temporary: false
-Is Repairable: true
 Price: 19
-Description: When Drawn: Deal 1 PHYS. Deal x0.5 PHYS. Unplayable.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

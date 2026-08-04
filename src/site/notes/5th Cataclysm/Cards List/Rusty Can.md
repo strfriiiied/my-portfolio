@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/rusty-can/","tags":["CardData"],"dg-note-properties":{"Name":"Rusty Can","AP":1,"Uses":3,"Is Temp":false,"Is Repairable":true,"Price":1,"Stocked by Moonman":false,"Stocked by Starman":false,"Description":"Deal 1 EARTH.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/rusty-can/","tags":["CardData"],"dg-note-properties":{"Card Name":"Rusty Can","AP Cost":"1","Description":"Deal 1 EARTH.","Is Repairable":"true","Price":"1","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Rusty Can
+**Rusty Can**: Deal 1 EARTH.
 AP Cost: 1
-Uses: 3
-Is Temporary: false
-Is Repairable: true
 Price: 1
-Description: Deal 1 EARTH.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: false
+

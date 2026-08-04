@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/lightning-rod/","tags":["CardData"],"dg-note-properties":{"Name":"Lightning Rod","AP":1,"Uses":40,"Is Temp":false,"Is Repairable":true,"Price":19,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"On Draw: Deal 1 PHYS. Deal x0.5 PHYS.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/lightning-rod/","tags":["CardData"],"dg-note-properties":{"Card Name":"Lightning Rod","AP Cost":"1","Description":"On Draw: Deal 1 FIRE. Deal x0.5 WATER.","Is Repairable":"true","Price":"19","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Lightning Rod
+**Lightning Rod**: On Draw: Deal 1 FIRE. Deal x0.5 WATER.
 AP Cost: 1
-Uses: 40
-Is Temporary: false
-Is Repairable: true
 Price: 19
-Description: On Draw: Deal 1 PHYS. Deal x0.5 PHYS.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

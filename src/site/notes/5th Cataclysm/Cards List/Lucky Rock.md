@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/lucky-rock/","tags":["CardData"],"dg-note-properties":{"Name":"Lucky Rock","AP":1,"Uses":10,"Is Temp":false,"Is Repairable":false,"Price":1,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"Deal 8 EARTH.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/lucky-rock/","tags":["CardData"],"dg-note-properties":{"Card Name":"Lucky Rock","AP Cost":"1","Description":"Deal 8 EARTH.","Is Repairable":"false","Price":"1","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Lucky Rock
+**Lucky Rock**: Deal 8 EARTH.
 AP Cost: 1
-Uses: 10
-Is Temporary: false
-Is Repairable: false
 Price: 1
-Description: Deal 8 EARTH.
+Targets: ENEMY
+Is Repairable: false
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

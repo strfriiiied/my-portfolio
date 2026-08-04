@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/leech-rewards-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"leech_rewards.tres","Cards Count":1,"Chance for Another Card":0.5,"Possible Base Cards":"Serrated Blade, Leech Teeth, Acid Vial, Manhole Cover","Possible Modifiers":"Earth, Defensive, Rummaging, Water, Heavy, Light","Money":"1-3","Mod Count":"0-2","Rewards All Listed Cards":false,"Links":"Cards: [[5th Cataclysm/Cards List/Serrated Blade\|Serrated Blade]] [[5th Cataclysm/Cards List/Leech Teeth\|Leech Teeth]] [[5th Cataclysm/Cards List/Acid Vial\|Acid Vial]] [[5th Cataclysm/Cards List/Manhole Cover\|Manhole Cover]]  Mods: [[5th Cataclysm/Card Mods List/Earth\|Earth]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Water\|Water]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]]","tags":"Reward"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/rewards-list/leech-rewards-tres/","tags":["Reward"],"dg-note-properties":{"Filename":"leech_rewards.tres","Cards Count":"1","Chance for Another Card":"0.5","Possible Base Cards":"Serrated Blade, Leech Teeth, Acid Vial, Manhole Cover","Possible Modifiers":"Earth, Defensive, Rummaging, Water, Heavy, Light","Money":"1-3","Mod Count":"0-2","Rewards All Listed Cards":"false","Links":"Cards: [[5th Cataclysm/Cards List/Serrated Blade\|Serrated Blade]] [[5th Cataclysm/Cards List/Leech Teeth\|Leech Teeth]] [[5th Cataclysm/Cards List/Acid Vial\|Acid Vial]] [[5th Cataclysm/Cards List/Manhole Cover\|Manhole Cover]]  Mods: [[5th Cataclysm/Card Mods List/Earth\|Earth]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Water\|Water]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]]","tags":["Reward"]}}
 ---
 
-
+#leech_rewards.tres
+Range of Card Rewards Count: 1
+Chance for Additional Card: 0.5
+Rewards: Serrated Blade, Leech Teeth, Acid Vial, Manhole Cover
+Earth, Defensive, Rummaging, Water, Heavy, Light
+1-3
+0-2
+Rewards All Cards (rather than random): false
 Cards: [[5th Cataclysm/Cards List/Serrated Blade\|Serrated Blade]] [[5th Cataclysm/Cards List/Leech Teeth\|Leech Teeth]] [[5th Cataclysm/Cards List/Acid Vial\|Acid Vial]] [[5th Cataclysm/Cards List/Manhole Cover\|Manhole Cover]]  Mods: [[5th Cataclysm/Card Mods List/Earth\|Earth]] [[5th Cataclysm/Card Mods List/Defensive\|Defensive]] [[5th Cataclysm/Card Mods List/Rummaging\|Rummaging]] [[5th Cataclysm/Card Mods List/Water\|Water]] [[5th Cataclysm/Card Mods List/Heavy\|Heavy]] [[5th Cataclysm/Card Mods List/Light\|Light]]

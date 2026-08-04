@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/big-rock/","tags":["CardData"],"dg-note-properties":{"Name":"Big Rock","AP":3,"Uses":10,"Is Temp":false,"Is Repairable":true,"Price":20,"Stocked by Moonman":true,"Stocked by Starman":false,"Description":"Deal 20 EARTH. Take +5 extra AIR. Gain 8 BLOCK.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/big-rock/","tags":["CardData"],"dg-note-properties":{"Card Name":"Big Rock","AP Cost":"3","Description":"Deal 20 EARTH. Take +5 extra AIR. Gain 8 BLOCK.","Is Repairable":"true","Price":"20","Targets":"ENEMY","Stocked by Item Merchant":"false","Stocked by Weapon Merchant":"true","tags":["CardData"]}}
 ---
 
-
-Name: Big Rock
+**Big Rock**: Deal 20 EARTH. Take +5 extra AIR. Gain 8 BLOCK.
 AP Cost: 3
-Uses: 10
-Is Temporary: false
-Is Repairable: true
 Price: 20
-Description: Deal 20 EARTH. Take +5 extra AIR. Gain 8 BLOCK.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: false
+Is stocked by Weapon Merchant: true
+

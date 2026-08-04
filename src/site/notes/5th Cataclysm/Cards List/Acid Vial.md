@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/acid-vial/","tags":["CardData"],"dg-note-properties":{"Name":"Acid Vial","AP":1,"Uses":5,"Is Temp":false,"Is Repairable":true,"Price":5,"Stocked by Moonman":false,"Stocked by Starman":true,"Description":"Add 1 \"Acid Slime\" to Target's Draw Pile.","tags":"CardData"}}
+{"dg-publish":true,"permalink":"/5th-cataclysm/cards-list/acid-vial/","tags":["CardData"],"dg-note-properties":{"Card Name":"Acid Vial","AP Cost":"1","Description":"Add 1 Acid Slime to Target's Draw Pile.","Is Repairable":"true","Price":"5","Targets":"ENEMY","Stocked by Item Merchant":"true","Stocked by Weapon Merchant":"false","tags":["CardData"]}}
 ---
 
-
-Name: Acid Vial
+**Acid Vial**: Add 1 Acid Slime to Target's Draw Pile.
 AP Cost: 1
-Uses: 5
-Is Temporary: false
-Is Repairable: true
 Price: 5
-Description: Add 1 "Acid Slime" to Target's Draw Pile.
+Targets: ENEMY
+Is Repairable: true
+Is stocked by Item Merchant: true
+Is stocked by Weapon Merchant: false
+
